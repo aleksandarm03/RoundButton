@@ -1,0 +1,7 @@
+C:\Users\DEX\AppData\Local\Temporary Projects\ARoundButton\bin\Debug\ARoundButton.exe
+C:\Users\DEX\AppData\Local\Temporary Projects\ARoundButton\bin\Debug\ARoundButton.pdb
+C:\Users\DEX\AppData\Local\Temporary Projects\ARoundButton\obj\x86\Debug\ARoundButton.Properties.Resources.resources
+C:\Users\DEX\AppData\Local\Temporary Projects\ARoundButton\obj\x86\Debug\ARoundButton.csproj.GenerateResource.Cache
+C:\Users\DEX\AppData\Local\Temporary Projects\ARoundButton\obj\x86\Debug\ARoundButton.exe
+C:\Users\DEX\AppData\Local\Temporary Projects\ARoundButton\obj\x86\Debug\ARoundButton.pdb
+C:\Users\DEX\AppData\Local\Temporary Projects\ARoundButton\obj\x86\Debug\ARoundButton.Form1.resources
